@@ -1,0 +1,13 @@
+C:\Users\rodolfo\source\repos\Tarefas\Aula 24-08\Aula_24-08_02\Aula_24-08_02\bin\Debug\netcoreapp3.1\Aula_24-08_02.exe
+C:\Users\rodolfo\source\repos\Tarefas\Aula 24-08\Aula_24-08_02\Aula_24-08_02\bin\Debug\netcoreapp3.1\Aula_24-08_02.deps.json
+C:\Users\rodolfo\source\repos\Tarefas\Aula 24-08\Aula_24-08_02\Aula_24-08_02\bin\Debug\netcoreapp3.1\Aula_24-08_02.runtimeconfig.json
+C:\Users\rodolfo\source\repos\Tarefas\Aula 24-08\Aula_24-08_02\Aula_24-08_02\bin\Debug\netcoreapp3.1\Aula_24-08_02.runtimeconfig.dev.json
+C:\Users\rodolfo\source\repos\Tarefas\Aula 24-08\Aula_24-08_02\Aula_24-08_02\bin\Debug\netcoreapp3.1\Aula_24-08_02.dll
+C:\Users\rodolfo\source\repos\Tarefas\Aula 24-08\Aula_24-08_02\Aula_24-08_02\bin\Debug\netcoreapp3.1\Aula_24-08_02.pdb
+C:\Users\rodolfo\source\repos\Tarefas\Aula 24-08\Aula_24-08_02\Aula_24-08_02\obj\Debug\netcoreapp3.1\Aula_24-08_02.csprojAssemblyReference.cache
+C:\Users\rodolfo\source\repos\Tarefas\Aula 24-08\Aula_24-08_02\Aula_24-08_02\obj\Debug\netcoreapp3.1\Aula_24-08_02.AssemblyInfoInputs.cache
+C:\Users\rodolfo\source\repos\Tarefas\Aula 24-08\Aula_24-08_02\Aula_24-08_02\obj\Debug\netcoreapp3.1\Aula_24-08_02.AssemblyInfo.cs
+C:\Users\rodolfo\source\repos\Tarefas\Aula 24-08\Aula_24-08_02\Aula_24-08_02\obj\Debug\netcoreapp3.1\Aula_24-08_02.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo\source\repos\Tarefas\Aula 24-08\Aula_24-08_02\Aula_24-08_02\obj\Debug\netcoreapp3.1\Aula_24-08_02.dll
+C:\Users\rodolfo\source\repos\Tarefas\Aula 24-08\Aula_24-08_02\Aula_24-08_02\obj\Debug\netcoreapp3.1\Aula_24-08_02.pdb
+C:\Users\rodolfo\source\repos\Tarefas\Aula 24-08\Aula_24-08_02\Aula_24-08_02\obj\Debug\netcoreapp3.1\Aula_24-08_02.genruntimeconfig.cache
