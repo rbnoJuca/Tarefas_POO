@@ -30,7 +30,5 @@ namespace Exec_01
             return Diagonal;
         }
 
-
-
     }
 }
