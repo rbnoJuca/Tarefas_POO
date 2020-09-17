@@ -11,3 +11,16 @@ D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\obj
 D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\obj\Debug\netcoreapp3.1\Exec_02.dll
 D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\obj\Debug\netcoreapp3.1\Exec_02.pdb
 D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\obj\Debug\netcoreapp3.1\Exec_02.genruntimeconfig.cache
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\bin\Debug\netcoreapp3.1\Exec_02.exe
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\bin\Debug\netcoreapp3.1\Exec_02.deps.json
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\bin\Debug\netcoreapp3.1\Exec_02.runtimeconfig.json
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\bin\Debug\netcoreapp3.1\Exec_02.runtimeconfig.dev.json
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\bin\Debug\netcoreapp3.1\Exec_02.dll
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\bin\Debug\netcoreapp3.1\Exec_02.pdb
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\obj\Debug\netcoreapp3.1\Exec_02.csprojAssemblyReference.cache
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\obj\Debug\netcoreapp3.1\Exec_02.AssemblyInfoInputs.cache
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\obj\Debug\netcoreapp3.1\Exec_02.AssemblyInfo.cs
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\obj\Debug\netcoreapp3.1\Exec_02.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\obj\Debug\netcoreapp3.1\Exec_02.dll
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\obj\Debug\netcoreapp3.1\Exec_02.pdb
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exec_02\Exec_02\Exec_02\obj\Debug\netcoreapp3.1\Exec_02.genruntimeconfig.cache

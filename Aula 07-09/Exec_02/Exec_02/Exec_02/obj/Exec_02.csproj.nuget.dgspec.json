@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Arquivos\\FACENS\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exec_02\\Exec_02\\Exec_02\\Exec_02.csproj": {}
+    "C:\\Users\\rodolfo\\Desktop\\Facens\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exec_02\\Exec_02\\Exec_02\\Exec_02.csproj": {}
   },
   "projects": {
-    "D:\\Arquivos\\FACENS\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exec_02\\Exec_02\\Exec_02\\Exec_02.csproj": {
+    "C:\\Users\\rodolfo\\Desktop\\Facens\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exec_02\\Exec_02\\Exec_02\\Exec_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos\\FACENS\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exec_02\\Exec_02\\Exec_02\\Exec_02.csproj",
+        "projectUniqueName": "C:\\Users\\rodolfo\\Desktop\\Facens\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exec_02\\Exec_02\\Exec_02\\Exec_02.csproj",
         "projectName": "Exec_02",
-        "projectPath": "D:\\Arquivos\\FACENS\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exec_02\\Exec_02\\Exec_02\\Exec_02.csproj",
-        "packagesPath": "C:\\Users\\rodol\\.nuget\\packages\\",
-        "outputPath": "D:\\Arquivos\\FACENS\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exec_02\\Exec_02\\Exec_02\\obj\\",
+        "projectPath": "C:\\Users\\rodolfo\\Desktop\\Facens\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exec_02\\Exec_02\\Exec_02\\Exec_02.csproj",
+        "packagesPath": "C:\\Users\\rodolfo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rodolfo\\Desktop\\Facens\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exec_02\\Exec_02\\Exec_02\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\rodol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rodolfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

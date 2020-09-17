@@ -10,7 +10,6 @@ namespace Exec_02
         public string v_sNome;
         public double v_dSalarioBruto;
         public double v_dImposto;
-        public double v_dAttSal;
 
         public double SalarioLiquido()
         {
@@ -18,10 +17,11 @@ namespace Exec_02
             return v_dSalLiqui;
         }
 
-        public void AumentarSalario(double attSal)
+        public void AumentarSalario(double p_dAttSal)
         {
-            attSal = SalarioLiquido() + (v_dSalarioBruto * v_dAttSal);
-            return attSal;
+
+            v_dSalarioBruto = SalarioLiquido() + (v_dSalarioBruto * (p_dAttSal/100));
+
         }
     }
 }

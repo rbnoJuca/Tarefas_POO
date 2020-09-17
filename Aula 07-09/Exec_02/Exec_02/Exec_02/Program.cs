@@ -6,6 +6,8 @@ namespace Exec_02
     {
         static void Main(string[] args)
         {
+            double v_dAttSal;
+
             Funcionario funcionario = new Funcionario();
 
             Console.WriteLine("Informe o nome do funcionário: ");
@@ -14,16 +16,18 @@ namespace Exec_02
             Console.WriteLine("Informe o salário bruto: ");
             funcionario.v_dSalarioBruto = double.Parse(Console.ReadLine());
             Console.WriteLine("");
-            Console.WriteLine("Informoe o imposto: ");
+            Console.WriteLine("Informe o imposto: ");
             funcionario.v_dImposto = double.Parse(Console.ReadLine());
 
             Console.WriteLine("");
             Console.WriteLine("Funcionário: " + funcionario.v_sNome + ", R$ " + funcionario.SalarioLiquido().ToString());
 
             Console.WriteLine("Informe a porcentagem para o aumento: ");
-            funcionario.v_dAttSal = double.Parse(Console.ReadLine());
+            v_dAttSal = double.Parse(Console.ReadLine());
 
-            Console.WriteLine(funcionario.AumentarSalario());
+            funcionario.AumentarSalario(v_dAttSal);
+
+            Console.WriteLine("Dados atualizados: " + funcionario.v_sNome + " , R$ " + funcionario.v_dSalarioBruto.ToString());
 
         }
     }
