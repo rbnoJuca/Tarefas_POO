@@ -1,0 +1,13 @@
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_03\Exerc_03\Exerc_03\bin\Debug\netcoreapp3.1\Exerc_03.exe
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_03\Exerc_03\Exerc_03\bin\Debug\netcoreapp3.1\Exerc_03.deps.json
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_03\Exerc_03\Exerc_03\bin\Debug\netcoreapp3.1\Exerc_03.runtimeconfig.json
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_03\Exerc_03\Exerc_03\bin\Debug\netcoreapp3.1\Exerc_03.runtimeconfig.dev.json
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_03\Exerc_03\Exerc_03\bin\Debug\netcoreapp3.1\Exerc_03.dll
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_03\Exerc_03\Exerc_03\bin\Debug\netcoreapp3.1\Exerc_03.pdb
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_03\Exerc_03\Exerc_03\obj\Debug\netcoreapp3.1\Exerc_03.csprojAssemblyReference.cache
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_03\Exerc_03\Exerc_03\obj\Debug\netcoreapp3.1\Exerc_03.AssemblyInfoInputs.cache
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_03\Exerc_03\Exerc_03\obj\Debug\netcoreapp3.1\Exerc_03.AssemblyInfo.cs
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_03\Exerc_03\Exerc_03\obj\Debug\netcoreapp3.1\Exerc_03.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_03\Exerc_03\Exerc_03\obj\Debug\netcoreapp3.1\Exerc_03.dll
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_03\Exerc_03\Exerc_03\obj\Debug\netcoreapp3.1\Exerc_03.pdb
+C:\Users\rodolfo\Desktop\Facens\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_03\Exerc_03\Exerc_03\obj\Debug\netcoreapp3.1\Exerc_03.genruntimeconfig.cache
