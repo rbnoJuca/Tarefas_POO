@@ -10,33 +10,27 @@ namespace Exec_01
     {
         public double v_dLargura;
         public double v_dAltura;
-        public string info;
 
-        public void areaRetangulo(string areaR)
+        public double areaRetangulo()
         {
             double Area = (v_dAltura * v_dLargura);
-            areaR = Area.ToString();
+            return Area;
+            
         }
 
-        public void perimetroRetangulo(double Per)
+        public double perimetroRetangulo()
         {
-            Per = 2 * (v_dAltura + v_dLargura);
-            Per.ToString("f2", CultureInfo.InvariantCulture);
+            double Per = 2 * (v_dAltura + v_dLargura);
+            return Per;
         }
 
-        public void diagonalRetangulo(double Diagonal)
+        public double diagonalRetangulo()
         {
-            Diagonal = Math.Sqrt(((v_dAltura * v_dAltura) + (v_dLargura * v_dLargura)));
-            Diagonal.ToString("f2", CultureInfo.InvariantCulture);
+            double Diagonal = Math.Sqrt(((v_dAltura * v_dAltura) + (v_dLargura * v_dLargura)));
+            return Diagonal;
         }
 
-        //public override string ToString()
-        //{
-        //    return info 
-        //        + "Area: " 
-        //        + Area.ToString() 
-        //        +  ;
-        //}
+
 
     }
 }

@@ -14,8 +14,11 @@ namespace Exec_01
             Console.WriteLine("");
             Console.WriteLine("Informe altura do retangulo: ");
             retangulo.v_dAltura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("");
 
-            Console.WriteLine("Area: " +  );
+            Console.WriteLine("Area = " + retangulo.areaRetangulo()
+                + "\nPerímetro = " + retangulo.perimetroRetangulo()
+                + "\nDiagonal = " + retangulo.diagonalRetangulo().ToString("F2",CultureInfo.InvariantCulture));
         }
     }
 }
