@@ -1,0 +1,13 @@
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 24-08\Exerc_24-08-02\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 24-08\Exerc_24-08-02\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 24-08\Exerc_24-08-02\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 24-08\Exerc_24-08-02\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 24-08\Exerc_24-08-02\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 24-08\Exerc_24-08-02\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 24-08\Exerc_24-08-02\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 24-08\Exerc_24-08-02\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 24-08\Exerc_24-08-02\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 24-08\Exerc_24-08-02\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 24-08\Exerc_24-08-02\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 24-08\Exerc_24-08-02\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 24-08\Exerc_24-08-02\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
