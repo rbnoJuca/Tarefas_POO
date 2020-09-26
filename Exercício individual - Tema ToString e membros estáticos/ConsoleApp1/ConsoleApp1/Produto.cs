@@ -10,29 +10,29 @@ namespace ConsoleApp1
 
         public string Nome;
         public double Preco;
-        public int Quantitade;
+        public int Quantidade;
 
-        public Produto(string nome, double preco, int quantitade) //método construtor.
+        public Produto(string nome, double preco, int quantidade) //método construtor.
         {
             Nome = nome;
             Preco = preco;
-            Quantitade = quantitade;
+            Quantidade = quantidade;
         }
 
 
         public double ValorTotalEstoque() //calculo do valor de estoque.
         {
-            return Preco * Quantitade;
+            return Preco * Quantidade;
         }
 
         public void Adiciona(int quantitade) //adiciona peças ao estoque.
         {
-            Quantitade += quantitade;
+            Quantidade += quantitade;
         }
 
         public void Remover(int quantidade) //remove peças do estoque.
         {
-            Quantitade = Quantitade - quantidade;
+            Quantidade = Quantidade - quantidade;
         }
 
         public override string ToString() //método de ToString para impressão de informações.
@@ -41,7 +41,7 @@ namespace ConsoleApp1
                 + ", R$ "
                 + Preco.ToString("F2", CultureInfo.InvariantCulture)
                 + ", "
-                + Quantitade
+                + Quantidade
                 + " unidades, Total: R$ "
                 + ValorTotalEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }

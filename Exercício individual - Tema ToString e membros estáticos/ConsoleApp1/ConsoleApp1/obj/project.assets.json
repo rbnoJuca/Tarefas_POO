@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquivos\\FACENS\\2 Semestre\\JD104LPJM1 - Programação Orientada a Objetos\\Aula 21-09\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\Arquivos\\FACENS\\2 Semestre\\Tarefas_POO\\Exercício individual - Tema ToString e membros estáticos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\Arquivos\\FACENS\\2 Semestre\\JD104LPJM1 - Programação Orientada a Objetos\\Aula 21-09\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\Arquivos\\FACENS\\2 Semestre\\Tarefas_POO\\Exercício individual - Tema ToString e membros estáticos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\rodol\\.nuget\\packages\\",
-      "outputPath": "D:\\Arquivos\\FACENS\\2 Semestre\\JD104LPJM1 - Programação Orientada a Objetos\\Aula 21-09\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\Arquivos\\FACENS\\2 Semestre\\Tarefas_POO\\Exercício individual - Tema ToString e membros estáticos\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rodol\\AppData\\Roaming\\NuGet\\NuGet.Config",
