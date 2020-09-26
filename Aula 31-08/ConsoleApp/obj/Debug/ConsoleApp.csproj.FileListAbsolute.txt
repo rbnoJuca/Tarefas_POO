@@ -5,3 +5,10 @@ C:\Users\fabiano.FADI\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.cs
 C:\Users\fabiano.FADI\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\fabiano.FADI\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
 C:\Users\fabiano.FADI\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 31-08\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 31-08\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 31-08\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 31-08\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 31-08\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 31-08\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 31-08\ConsoleApp\obj\Debug\ConsoleApp.pdb

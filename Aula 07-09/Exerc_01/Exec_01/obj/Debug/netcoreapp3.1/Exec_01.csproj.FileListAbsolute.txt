@@ -11,3 +11,16 @@ D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exec_01\Exec_01\obj\Debug\n
 D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exec_01\Exec_01\obj\Debug\netcoreapp3.1\Exec_01.dll
 D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exec_01\Exec_01\obj\Debug\netcoreapp3.1\Exec_01.pdb
 D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exec_01\Exec_01\obj\Debug\netcoreapp3.1\Exec_01.genruntimeconfig.cache
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_01\Exec_01\bin\Debug\netcoreapp3.1\Exec_01.exe
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_01\Exec_01\bin\Debug\netcoreapp3.1\Exec_01.deps.json
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_01\Exec_01\bin\Debug\netcoreapp3.1\Exec_01.runtimeconfig.json
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_01\Exec_01\bin\Debug\netcoreapp3.1\Exec_01.runtimeconfig.dev.json
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_01\Exec_01\bin\Debug\netcoreapp3.1\Exec_01.dll
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_01\Exec_01\bin\Debug\netcoreapp3.1\Exec_01.pdb
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_01\Exec_01\obj\Debug\netcoreapp3.1\Exec_01.csprojAssemblyReference.cache
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_01\Exec_01\obj\Debug\netcoreapp3.1\Exec_01.AssemblyInfoInputs.cache
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_01\Exec_01\obj\Debug\netcoreapp3.1\Exec_01.AssemblyInfo.cs
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_01\Exec_01\obj\Debug\netcoreapp3.1\Exec_01.csproj.CoreCompileInputs.cache
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_01\Exec_01\obj\Debug\netcoreapp3.1\Exec_01.dll
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_01\Exec_01\obj\Debug\netcoreapp3.1\Exec_01.pdb
+D:\Arquivos\FACENS\2 Semestre\Tarefas_POO\Aula 07-09\Exerc_01\Exec_01\obj\Debug\netcoreapp3.1\Exec_01.genruntimeconfig.cache

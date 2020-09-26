@@ -6,8 +6,7 @@ namespace ConsoleApp2
     class Program
     {
         static void Main(string[] args)
-        {
-        
+        {        
             
             Funcionario funcionarioA = new Funcionario();
             Funcionario funcionarioB = new Funcionario();

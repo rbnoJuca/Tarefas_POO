@@ -14,8 +14,7 @@ namespace Exerc_03
         public double SomaNota()
         {
             double soma = nota_1 + nota_2 + nota_3;
-            return soma;
-            
+            return soma;            
         }
 
     }

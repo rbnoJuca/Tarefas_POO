@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.VisualBasic;
+using System;
 using System.Globalization;
 
 namespace Exec_01
@@ -19,6 +20,7 @@ namespace Exec_01
             Console.WriteLine("Area = " + retangulo.areaRetangulo()
                 + "\nPerímetro = " + retangulo.perimetroRetangulo()
                 + "\nDiagonal = " + retangulo.diagonalRetangulo().ToString("F2",CultureInfo.InvariantCulture));
+
         }
     }
 }

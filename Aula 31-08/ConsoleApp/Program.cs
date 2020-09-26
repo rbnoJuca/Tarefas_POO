@@ -38,7 +38,7 @@ namespace ConsoleApp
                         break;
                     case "2":
                         Console.WriteLine("Informe a quantidade de produto para adiconar: ");
-                        produto.Adicionar(int.Parse(Console.ReadLine())) ;
+                        produto.Adicionar(int.Parse(Console.ReadLine()));
                         break;
                     case "3":
                         Console.WriteLine("Informe a quantidade de produto para remover: ");
@@ -48,8 +48,6 @@ namespace ConsoleApp
             } while (v_sOpcao != "5");
 
             Console.ReadLine();
-
-
         }
     }
 }

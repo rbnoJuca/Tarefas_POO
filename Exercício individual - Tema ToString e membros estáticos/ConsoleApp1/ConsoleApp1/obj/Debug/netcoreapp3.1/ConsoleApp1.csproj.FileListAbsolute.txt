@@ -1,0 +1,13 @@
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Aula 21-09\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Aula 21-09\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Aula 21-09\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Aula 21-09\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Aula 21-09\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Aula 21-09\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Aula 21-09\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Aula 21-09\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Aula 21-09\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Aula 21-09\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Aula 21-09\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Aula 21-09\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Aula 21-09\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

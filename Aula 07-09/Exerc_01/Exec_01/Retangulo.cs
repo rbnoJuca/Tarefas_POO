@@ -28,6 +28,7 @@ namespace Exec_01
         {
             double Diagonal = Math.Sqrt(((v_dAltura * v_dAltura) + (v_dLargura * v_dLargura)));
             return Diagonal;
+
         }
 
     }

@@ -21,7 +21,7 @@ namespace Exec_02
         {
 
             v_dSalarioBruto = SalarioLiquido() + (v_dSalarioBruto * (p_dAttSal/100));
-
+            
         }
     }
 }
