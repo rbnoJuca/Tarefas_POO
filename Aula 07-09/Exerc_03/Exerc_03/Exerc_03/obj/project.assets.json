@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\rodol\\.nuget\\packages\\": {}
+    "C:\\Users\\rodolfo\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquivos\\FACENS\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exerc_03\\Exerc_03\\Exerc_03\\Exerc_03.csproj",
+      "projectUniqueName": "C:\\Users\\rodolfo\\Desktop\\Facens\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exerc_03\\Exerc_03\\Exerc_03\\Exerc_03.csproj",
       "projectName": "Exerc_03",
-      "projectPath": "D:\\Arquivos\\FACENS\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exerc_03\\Exerc_03\\Exerc_03\\Exerc_03.csproj",
-      "packagesPath": "C:\\Users\\rodol\\.nuget\\packages\\",
-      "outputPath": "D:\\Arquivos\\FACENS\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exerc_03\\Exerc_03\\Exerc_03\\obj\\",
+      "projectPath": "C:\\Users\\rodolfo\\Desktop\\Facens\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exerc_03\\Exerc_03\\Exerc_03\\Exerc_03.csproj",
+      "packagesPath": "C:\\Users\\rodolfo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rodolfo\\Desktop\\Facens\\2 Semestre\\Tarefas_POO\\Aula 07-09\\Exerc_03\\Exerc_03\\Exerc_03\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\rodol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rodolfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
