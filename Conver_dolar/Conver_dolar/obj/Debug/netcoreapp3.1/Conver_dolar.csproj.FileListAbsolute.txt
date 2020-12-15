@@ -1,0 +1,13 @@
+D:\Arquivos\FACENS\2 Semestre\POO\Conver_dolar\Conver_dolar\bin\Debug\netcoreapp3.1\Conver_dolar.exe
+D:\Arquivos\FACENS\2 Semestre\POO\Conver_dolar\Conver_dolar\bin\Debug\netcoreapp3.1\Conver_dolar.deps.json
+D:\Arquivos\FACENS\2 Semestre\POO\Conver_dolar\Conver_dolar\bin\Debug\netcoreapp3.1\Conver_dolar.runtimeconfig.json
+D:\Arquivos\FACENS\2 Semestre\POO\Conver_dolar\Conver_dolar\bin\Debug\netcoreapp3.1\Conver_dolar.runtimeconfig.dev.json
+D:\Arquivos\FACENS\2 Semestre\POO\Conver_dolar\Conver_dolar\bin\Debug\netcoreapp3.1\Conver_dolar.dll
+D:\Arquivos\FACENS\2 Semestre\POO\Conver_dolar\Conver_dolar\bin\Debug\netcoreapp3.1\Conver_dolar.pdb
+D:\Arquivos\FACENS\2 Semestre\POO\Conver_dolar\Conver_dolar\obj\Debug\netcoreapp3.1\Conver_dolar.csprojAssemblyReference.cache
+D:\Arquivos\FACENS\2 Semestre\POO\Conver_dolar\Conver_dolar\obj\Debug\netcoreapp3.1\Conver_dolar.AssemblyInfoInputs.cache
+D:\Arquivos\FACENS\2 Semestre\POO\Conver_dolar\Conver_dolar\obj\Debug\netcoreapp3.1\Conver_dolar.AssemblyInfo.cs
+D:\Arquivos\FACENS\2 Semestre\POO\Conver_dolar\Conver_dolar\obj\Debug\netcoreapp3.1\Conver_dolar.csproj.CoreCompileInputs.cache
+D:\Arquivos\FACENS\2 Semestre\POO\Conver_dolar\Conver_dolar\obj\Debug\netcoreapp3.1\Conver_dolar.dll
+D:\Arquivos\FACENS\2 Semestre\POO\Conver_dolar\Conver_dolar\obj\Debug\netcoreapp3.1\Conver_dolar.pdb
+D:\Arquivos\FACENS\2 Semestre\POO\Conver_dolar\Conver_dolar\obj\Debug\netcoreapp3.1\Conver_dolar.genruntimeconfig.cache

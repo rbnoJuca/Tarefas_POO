@@ -1,0 +1,13 @@
+C:\Users\rodolfo\source\repos\Tarefas_POO-2-\Exerc_Hotel\Exerc_Hotel\bin\Debug\netcoreapp3.1\Exerc_Hotel.exe
+C:\Users\rodolfo\source\repos\Tarefas_POO-2-\Exerc_Hotel\Exerc_Hotel\bin\Debug\netcoreapp3.1\Exerc_Hotel.deps.json
+C:\Users\rodolfo\source\repos\Tarefas_POO-2-\Exerc_Hotel\Exerc_Hotel\bin\Debug\netcoreapp3.1\Exerc_Hotel.runtimeconfig.json
+C:\Users\rodolfo\source\repos\Tarefas_POO-2-\Exerc_Hotel\Exerc_Hotel\bin\Debug\netcoreapp3.1\Exerc_Hotel.runtimeconfig.dev.json
+C:\Users\rodolfo\source\repos\Tarefas_POO-2-\Exerc_Hotel\Exerc_Hotel\bin\Debug\netcoreapp3.1\Exerc_Hotel.dll
+C:\Users\rodolfo\source\repos\Tarefas_POO-2-\Exerc_Hotel\Exerc_Hotel\bin\Debug\netcoreapp3.1\Exerc_Hotel.pdb
+C:\Users\rodolfo\source\repos\Tarefas_POO-2-\Exerc_Hotel\Exerc_Hotel\obj\Debug\netcoreapp3.1\Exerc_Hotel.csprojAssemblyReference.cache
+C:\Users\rodolfo\source\repos\Tarefas_POO-2-\Exerc_Hotel\Exerc_Hotel\obj\Debug\netcoreapp3.1\Exerc_Hotel.AssemblyInfoInputs.cache
+C:\Users\rodolfo\source\repos\Tarefas_POO-2-\Exerc_Hotel\Exerc_Hotel\obj\Debug\netcoreapp3.1\Exerc_Hotel.AssemblyInfo.cs
+C:\Users\rodolfo\source\repos\Tarefas_POO-2-\Exerc_Hotel\Exerc_Hotel\obj\Debug\netcoreapp3.1\Exerc_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo\source\repos\Tarefas_POO-2-\Exerc_Hotel\Exerc_Hotel\obj\Debug\netcoreapp3.1\Exerc_Hotel.dll
+C:\Users\rodolfo\source\repos\Tarefas_POO-2-\Exerc_Hotel\Exerc_Hotel\obj\Debug\netcoreapp3.1\Exerc_Hotel.pdb
+C:\Users\rodolfo\source\repos\Tarefas_POO-2-\Exerc_Hotel\Exerc_Hotel\obj\Debug\netcoreapp3.1\Exerc_Hotel.genruntimeconfig.cache

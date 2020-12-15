@@ -1,0 +1,13 @@
+C:\Users\rodolfo\source\repos\Folha_Pagamento\Folha_Pagamento\bin\Debug\netcoreapp3.1\Folha_Pagamento.exe
+C:\Users\rodolfo\source\repos\Folha_Pagamento\Folha_Pagamento\bin\Debug\netcoreapp3.1\Folha_Pagamento.deps.json
+C:\Users\rodolfo\source\repos\Folha_Pagamento\Folha_Pagamento\bin\Debug\netcoreapp3.1\Folha_Pagamento.runtimeconfig.json
+C:\Users\rodolfo\source\repos\Folha_Pagamento\Folha_Pagamento\bin\Debug\netcoreapp3.1\Folha_Pagamento.runtimeconfig.dev.json
+C:\Users\rodolfo\source\repos\Folha_Pagamento\Folha_Pagamento\bin\Debug\netcoreapp3.1\Folha_Pagamento.dll
+C:\Users\rodolfo\source\repos\Folha_Pagamento\Folha_Pagamento\bin\Debug\netcoreapp3.1\Folha_Pagamento.pdb
+C:\Users\rodolfo\source\repos\Folha_Pagamento\Folha_Pagamento\obj\Debug\netcoreapp3.1\Folha_Pagamento.csprojAssemblyReference.cache
+C:\Users\rodolfo\source\repos\Folha_Pagamento\Folha_Pagamento\obj\Debug\netcoreapp3.1\Folha_Pagamento.AssemblyInfoInputs.cache
+C:\Users\rodolfo\source\repos\Folha_Pagamento\Folha_Pagamento\obj\Debug\netcoreapp3.1\Folha_Pagamento.AssemblyInfo.cs
+C:\Users\rodolfo\source\repos\Folha_Pagamento\Folha_Pagamento\obj\Debug\netcoreapp3.1\Folha_Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo\source\repos\Folha_Pagamento\Folha_Pagamento\obj\Debug\netcoreapp3.1\Folha_Pagamento.dll
+C:\Users\rodolfo\source\repos\Folha_Pagamento\Folha_Pagamento\obj\Debug\netcoreapp3.1\Folha_Pagamento.pdb
+C:\Users\rodolfo\source\repos\Folha_Pagamento\Folha_Pagamento\obj\Debug\netcoreapp3.1\Folha_Pagamento.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\rodolfo\source\repos\Formas_Geometricas\Formas_Geometricas\bin\Debug\netcoreapp3.1\Formas_Geometricas.exe
+C:\Users\rodolfo\source\repos\Formas_Geometricas\Formas_Geometricas\bin\Debug\netcoreapp3.1\Formas_Geometricas.deps.json
+C:\Users\rodolfo\source\repos\Formas_Geometricas\Formas_Geometricas\bin\Debug\netcoreapp3.1\Formas_Geometricas.runtimeconfig.json
+C:\Users\rodolfo\source\repos\Formas_Geometricas\Formas_Geometricas\bin\Debug\netcoreapp3.1\Formas_Geometricas.runtimeconfig.dev.json
+C:\Users\rodolfo\source\repos\Formas_Geometricas\Formas_Geometricas\bin\Debug\netcoreapp3.1\Formas_Geometricas.dll
+C:\Users\rodolfo\source\repos\Formas_Geometricas\Formas_Geometricas\bin\Debug\netcoreapp3.1\Formas_Geometricas.pdb
+C:\Users\rodolfo\source\repos\Formas_Geometricas\Formas_Geometricas\obj\Debug\netcoreapp3.1\Formas_Geometricas.csprojAssemblyReference.cache
+C:\Users\rodolfo\source\repos\Formas_Geometricas\Formas_Geometricas\obj\Debug\netcoreapp3.1\Formas_Geometricas.AssemblyInfoInputs.cache
+C:\Users\rodolfo\source\repos\Formas_Geometricas\Formas_Geometricas\obj\Debug\netcoreapp3.1\Formas_Geometricas.AssemblyInfo.cs
+C:\Users\rodolfo\source\repos\Formas_Geometricas\Formas_Geometricas\obj\Debug\netcoreapp3.1\Formas_Geometricas.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo\source\repos\Formas_Geometricas\Formas_Geometricas\obj\Debug\netcoreapp3.1\Formas_Geometricas.dll
+C:\Users\rodolfo\source\repos\Formas_Geometricas\Formas_Geometricas\obj\Debug\netcoreapp3.1\Formas_Geometricas.pdb
+C:\Users\rodolfo\source\repos\Formas_Geometricas\Formas_Geometricas\obj\Debug\netcoreapp3.1\Formas_Geometricas.genruntimeconfig.cache

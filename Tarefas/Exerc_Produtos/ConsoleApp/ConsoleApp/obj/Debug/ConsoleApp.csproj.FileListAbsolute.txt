@@ -1,0 +1,21 @@
+C:\Users\fabiano.FADI\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\fabiano.FADI\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\fabiano.FADI\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\fabiano.FADI\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\fabiano.FADI\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\fabiano.FADI\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\fabiano.FADI\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Exercicios\Exrcicios01\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Exercicios\Exrcicios01\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Exercicios\Exrcicios01\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Exercicios\Exrcicios01\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Exercicios\Exrcicios01\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Exercicios\Exrcicios01\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Exercicios\Exrcicios01\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Tarefas\Exerc_Produtos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Tarefas\Exerc_Produtos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Tarefas\Exerc_Produtos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Tarefas\Exerc_Produtos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Tarefas\Exerc_Produtos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Tarefas\Exerc_Produtos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Arquivos\FACENS\2 Semestre\JD104LPJM1 - Programação Orientada a Objetos\Tarefas\Exerc_Produtos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
